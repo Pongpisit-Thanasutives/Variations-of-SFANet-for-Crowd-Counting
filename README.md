@@ -1,11 +1,10 @@
 # Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting（Arxiv March 2020）
-[Arxiv](https://arxiv.org/abs/2003.05586)
-###  Official Implementation of Arxiv 2020 oral paper "Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting"
+##  Official Implementation of Arxiv 2020 "Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting" [Arxiv](https://arxiv.org/abs/2003.05586)
 Many thanks to [BL](https://github.com/ZhihengCV/Bayesian-Crowd-Counting), [SFANet](https://github.com/pxq0312/SFANet-crowd-counting/) and [CAN](https://github.com/weizheliu/Context-Aware-Crowd-Counting) for their useful publications and repos
 
 For complete UCF-QNRF training code, please refer to [BL](https://github.com/ZhihengCV/Bayesian-Crowd-Counting).
 
-See ```\models``` for our M-SFANet and M-SegNet.
+Please see ```models``` for our M-SFANet and M-SegNet.
 
 ## Density Visualization
 
@@ -13,7 +12,7 @@ See ```\models``` for our M-SFANet and M-SegNet.
 ![](images/seg_img_0323_heatpmap.png)
 
 ## Citation
-If you use this code useful for your research, please cite our paper:
+If you find the code useful for your research, please cite our paper:
 
 ```
 @article{thanasutives2020encoder,
@@ -23,5 +22,5 @@ If you use this code useful for your research, please cite our paper:
   year={2020}
 }
 ```
-### Pretrain Weight
+### Pretrained Weights
 Google Drive [Link](Coming soon)
