@@ -23,4 +23,4 @@ If you find the code useful for your research, please cite our paper:
 }
 ```
 ### Pretrained Weights
-Google Drive [Link](Coming soon)
+Shanghaitech A&B [Link](https://drive.google.com/file/d/1MxGZjapIv6O-hzxEeHY7c93723mhGKrG/view?usp=sharing)
