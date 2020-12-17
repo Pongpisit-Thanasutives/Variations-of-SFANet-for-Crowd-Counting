@@ -1,5 +1,5 @@
-# Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting（Arxiv March 2020）
-##  Official Implementation of Arxiv 2020 "Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting" [LINK](https://arxiv.org/abs/2003.05586)
+# Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting（ICPR 2020）
+##  Official Implementation of "Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting" [LINK](https://arxiv.org/abs/2003.05586)
 Many thanks to [BL](https://github.com/ZhihengCV/Bayesian-Crowd-Counting), [SFANet](https://github.com/pxq0312/SFANet-crowd-counting/) and [CAN](https://github.com/weizheliu/Context-Aware-Crowd-Counting) for their useful publications and repos
 
 For complete UCF-QNRF training code, please refer to [BL](https://github.com/ZhihengCV/Bayesian-Crowd-Counting).
