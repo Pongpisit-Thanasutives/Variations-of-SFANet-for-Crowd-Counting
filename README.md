@@ -15,11 +15,13 @@ Please see ```models``` for our M-SFANet and M-SegNet.
 If you find the code useful for your research, please cite our paper:
 
 ```
-@article{thanasutives2020encoder,
+@inproceedings{thanasutives2021encoder,
   title={Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting},
   author={Thanasutives, Pongpisit and Fukui, Ken-ichi and Numao, Masayuki and Kijsirikul, Boonserm},
-  journal={arXiv preprint arXiv:2003.05586},
-  year={2020}
+  booktitle={2020 25th International Conference on Pattern Recognition (ICPR)},
+  pages={2382--2389},
+  year={2021},
+  organization={IEEE}
 }
 ```
 ### Pretrained Weights
