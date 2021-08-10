@@ -27,4 +27,4 @@ If you find the code useful for your research, please cite our paper:
 ### Pretrained Weights
 Shanghaitech A&B [Link](https://drive.google.com/file/d/1MxGZjapIv6O-hzxEeHY7c93723mhGKrG/view?usp=sharing)
 
-To test the visualization code you should use the pretrained M_SegNet* on UCF_QNRF [Link](https://drive.google.com/file/d/1fGuH4o0hKbgdP1kaj9rbjX2HUL1IH0oo/view?usp=sharing)
+To test the visualization code you should use the pretrained M_SegNet* on UCF_QNRF [Link](https://drive.google.com/file/d/1fGuH4o0hKbgdP1kaj9rbjX2HUL1IH0oo/view?usp=sharing) (The pretrained weights of M_SFANet* are also included.)
