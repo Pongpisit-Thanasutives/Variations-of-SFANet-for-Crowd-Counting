@@ -14,8 +14,8 @@ def parse_args():
                         help='training data directory')
     parser.add_argument('--save-dir', default='',
                         help='directory to save models.')
-
-    parser.add_argument('--lr', type=float, default=5e-5,
+    # To reproduce, it would be helpful to try lr=5e-4, 1e-4, and 5e-5 since the training process could be noisy.
+    parser.add_argument('--lr', type=float, default=5e-4,
                         help='the initial learning rate')
     parser.add_argument('--weight-decay', type=float, default=1e-4,
                         help='the weight decay')
