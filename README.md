@@ -25,7 +25,7 @@ If you find the code useful for your research, please cite our paper:
 }
 ```
 ### Datasets (NEW)
-To reproduce the results reported in the paper, you may use these preprocessed datasets. The is not completed yet, and might possibly be updated in the future.
+To reproduce the results reported in the paper, you may use these preprocessed datasets. This is not completed yet, and might be updated in the future.
 
 Shanghaitech B dataset that is preprocessed using the Gaussian kernel [Link](https://drive.google.com/file/d/1Jjmvp-BEa-_81rXgX1bvdqi5gzteRdJA/view?usp=sharing)
 
