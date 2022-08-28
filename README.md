@@ -67,10 +67,10 @@ print(torch.sum(density_map).item())
 
 ## Citation
 If you find the code useful for your research, please cite our paper:
-  
+ 
 ```
 @inproceedings{thanasutives2021encoder,
-  title={Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting},
+  title={Encoder-decoder based convolutional neural networks with multi-scale-aware modules for crowd counting},
   author={Thanasutives, Pongpisit and Fukui, Ken-ichi and Numao, Masayuki and Kijsirikul, Boonserm},
   booktitle={2020 25th International Conference on Pattern Recognition (ICPR)},
   pages={2382--2389},
