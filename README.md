@@ -4,7 +4,7 @@ Many thanks to [BL](https://github.com/ZhihengCV/Bayesian-Crowd-Counting), [SFAN
 
 For complete UCF-QNRF and Shanghaitech training code, please refer to [BL](https://github.com/ZhihengCV/Bayesian-Crowd-Counting) and [SFANet](https://github.com/pxq0312/SFANet-crowd-counting/) respectively.
 
-Please see ```models``` for our M-SFANet and M-SegNet implementations.
+Please see [models](models/) for our M-SFANet and M-SegNet implementations.
 
 ## Density maps Visualization
 
@@ -67,7 +67,7 @@ print(torch.sum(density_map).item())
 
 ## Citation
 If you find the code useful for your research, please cite our paper:
- 
+
 ```
 @inproceedings{thanasutives2021encoder,
   title={Encoder-decoder based convolutional neural networks with multi-scale-aware modules for crowd counting},
@@ -78,3 +78,6 @@ If you find the code useful for your research, please cite our paper:
   organization={IEEE}
 }
 ```
+
+Erratum: In Fig. 1, "ASSP" should be "ASPP". 
+You may watch this [6-minute presentation video](https://www.youtube.com/watch?v=aq1No_46Qkg) as a short introduction.
