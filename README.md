@@ -79,5 +79,5 @@ If you find the code useful for your research, please cite our paper:
 }
 ```
 
-Erratum: In Fig. 1, "ASSP" should be "ASPP". 
+Erratum: In Fig. 1, "ASSP" should be "ASPP".  
 You may watch this [6-minute presentation video](https://www.youtube.com/watch?v=aq1No_46Qkg) as a short introduction.
