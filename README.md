@@ -55,6 +55,7 @@ img = trans(Image.fromarray(img))[None, :]
 model = M_SFANet_UCF_QNRF.Model()
 # Weights are stored in the Google drive link.
 # The model are originally trained on a GPU but, we can also test it on a CPU.
+# For ShanghaitechWeights, use torch.load("./ShanghaitechWeights/...")["model"] with M_SFANet.Model() or M_SegNet.Model()
 model.load_state_dict(torch.load("./Paper's_weights_UCF_QNRF/best_M-SFANet*_UCF_QNRF.pth", 
                                  map_location = torch.device('cpu')))
 
@@ -79,5 +80,5 @@ If you find the code useful for your research, please cite our paper:
 }
 ```
 
-Erratum: In Fig. 1, "ASSP" should be "ASPP".  
+Erratum: In Fig. 1 of the paper, "ASSP" should be "ASPP".  
 You may watch this [6-minute presentation video](https://www.youtube.com/watch?v=aq1No_46Qkg) as a short introduction.
